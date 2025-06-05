@@ -51,6 +51,19 @@ Here’s how the app looks in dark mode:
 
 ---
 
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this software with or without changes. Just give credit to the original author.
+
+See the [LICENSE](LICENSE) file for more details.
+
+
+---
+
 ## 📬 Contact
 
 📧Email - yashodeephundiwale@gmail.com 
