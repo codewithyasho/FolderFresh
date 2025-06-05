@@ -27,7 +27,7 @@ No installation required. Just download and run!
 
 Here’s how the app looks in dark mode:
 
-![FolderFresh GUI](5aa569cf-1781-4ab0-91ed-d1b65283221d.png)
+![Screenshot 2025-06-06 000739](https://github.com/user-attachments/assets/39b5ca5e-e330-4327-a62a-de43d6ac3772)
 
 ---
 
@@ -52,6 +52,8 @@ Here’s how the app looks in dark mode:
 ---
 
 ## 📬 Contact
+
+📧Email - yashodeephundiwale@gmail.com 
 
 Made by [@codewithyasho](https://github.com/codewithyasho) with ❤️
 
