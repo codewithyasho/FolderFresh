@@ -1,30 +1,57 @@
-# FolderFresh – your folder hygiene assistant!
+# 🧹 FolderFresh
 
-**FolderFresh** is a friendly and modern desktop app that helps you clean unwanted files from selected folders while keeping the files you care about (based on extensions you choose).
-
-Made with ❤️ using **Python + PyQt6**.
+**FolderFresh** is a simple and smart file cleaner built with PyQt. It helps you clean unwanted files from multiple folders at once by keeping only the file types you want.
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- ✅ Drag & Drop folder selection
-- ✅ Choose which file types to **keep**
-- ✅ Preview mode before cleaning
-- ✅ Sends unwanted files to **Recycle Bin**, not deleted permanently
-- ✅ Email cleanup report with log and chart (optional)
-- ✅ Dark Mode toggle
-- ✅ Modern GUI using PyQt6
+- ✅ Drag & Drop Folder Selection  
+- ✅ Multiple Folder Support  
+- ✅ Preview Mode (See what will be deleted)  
+- ✅ Clean Mode (Actually delete unwanted files)  
+- ✅ Email Report with Cleanup Stats & Chart (Optional)  
+- ✅ Dark Mode Interface  
+- ✅ Lightweight `.exe` version available (no install)
 
 ---
 
-## 📦 Installation
+## 📦 Download
 
-### 💻 Option 1: Run from Python source
+👉 [Download FolderFresh.exe](https://github.com/codewithyasho/folderfresh/releases/download/v1.0/FolderFresh.exe)  
+No installation required. Just download and run!
 
-#### Requirements:
-- Python 3.10+ (recommended)
-- Install dependencies:
+---
 
-```bash
-pip install PyQt6 send2trash matplotlib
+## 🖼 Screenshot
+
+Here’s how the app looks in dark mode:
+
+![FolderFresh GUI](5aa569cf-1781-4ab0-91ed-d1b65283221d.png)
+
+---
+
+## 🧑‍💻 How to Use
+
+1. Run the `.exe` or Python file.
+2. Drag and drop folders into the app.
+3. Enter the file extensions you want to keep for each folder (e.g., `.pdf, .docx`).
+4. Click **Preview** to check what will be deleted.
+5. Click **Clean** to delete all unwanted files.
+6. (Optional) Enter your email and check the box to receive a cleanup report.
+
+---
+
+## ✨ Built With
+
+- Python 3
+- PyQt6
+- send2trash
+- matplotlib
+
+---
+
+## 📬 Contact
+
+Made by [@codewithyasho](https://github.com/codewithyasho) with ❤️
+
